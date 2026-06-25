@@ -67,4 +67,7 @@ vcpkg_installed/
 Testing/
 .cache/
 
+# datasets (large; download separately)
+data/
+
 plan.md
